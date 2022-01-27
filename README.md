@@ -20,7 +20,7 @@ A script to find the people whom you follow, but they don't follow you back
 
 ## Working:
 
-![image](https://github.com/greyhatguy007/increase-visitor-counter/blob/main/working.png)
+![image](https://github.com/greyhatguy007/insta-non-followers/blob/main/working.png)
 
 
 
