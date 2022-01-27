@@ -7,7 +7,7 @@ A script to find the people whom you follow, but they don't follow you back
 
 ## Dependencies:
   - python3 
-  - libraries - isntaloader, getpass, tabulate
+  - libraries - instaloader, getpass
   
 ## Installation :
 
@@ -24,7 +24,7 @@ A script to find the people whom you follow, but they don't follow you back
 
 
 
-#### Note : The more visits you want to increase, the more time it takes.
-####        Tested On Debian And Arch Linux
+#### Note:
+#### Tested On Debian And Arch Linux
 
 
