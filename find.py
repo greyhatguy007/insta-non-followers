@@ -27,20 +27,6 @@ for followee in profile.get_followees():
     username = followee.username
     my_following.append(username)
 
-'''
-line = ('_'*50)
-print(line)
-print('PEOPLE WHO FOLLOW ME:')
-for i in my_followers:	
-	print(i)
-print(line)
-print("PEOPLE WHO I FOLLOW")
-for i in my_following:
-	print(i)
-print(line)
-print("PEOPLE WHO I FOLLOW BUT THEY DON'T FOLLOW ME BACK")
-print(line)
-'''
 dushmans = []
 for followee in my_following:
 	if followee not in my_followers:
